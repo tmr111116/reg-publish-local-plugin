@@ -1,0 +1,1 @@
+# reg-publish-local-plugin
