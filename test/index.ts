@@ -1,0 +1,3 @@
+import pluginFactory from "..";
+
+pluginFactory();
